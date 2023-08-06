@@ -1,0 +1,47 @@
+2023-08-06 02:32:42.972900 - Initialized conversion of CBT258
+2023-08-06 02:32:43.582620 - Received CBT.V505.FILE258.PDS from FILE258.XMI 
+2023-08-06 02:32:43.585004 - Found $$$$COPY.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/$$$$COPY
+2023-08-06 02:32:43.586074 - Found $$$$READ.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/$$$$READ
+2023-08-06 02:32:43.587077 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:32:43.588139 - Found $$$INDEX.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/$$$INDEX
+2023-08-06 02:32:43.589085 - Found $$$IXF02.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/$$$IXF02
+2023-08-06 02:32:43.590075 - Found $$DOC.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/$$DOC
+2023-08-06 02:32:43.590985 - Found @CCOMP.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@CCOMP
+2023-08-06 02:32:43.591916 - Found @DD3270.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@DD3270
+2023-08-06 02:32:43.592770 - Found @FILE258.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@FILE258
+2023-08-06 02:32:43.593656 - Found @FONTGEN.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@FONTGEN
+2023-08-06 02:32:43.594522 - Found @INFO32P.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@INFO32P
+2023-08-06 02:32:43.595385 - Found @INFO327.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@INFO327
+2023-08-06 02:32:43.596299 - Found @LISTCAT.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@LISTCAT
+2023-08-06 02:32:43.597211 - Found @LOGON.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@LOGON
+2023-08-06 02:32:43.598134 - Found @TERMST.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@TERMST
+2023-08-06 02:32:43.598143 - Found @TEST327.bin containing application/octet-stream, moved to PDS/@TEST327
+2023-08-06 02:32:43.599862 - Found @TREXX.rexx (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@TREXX
+2023-08-06 02:32:43.600697 - Found @TREXX2.rexx (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@TREXX2
+2023-08-06 02:32:43.601569 - Found @T32.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@T32
+2023-08-06 02:32:43.602428 - Found @T32A.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@T32A
+2023-08-06 02:32:43.603274 - Found @WIDGET.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@WIDGET
+2023-08-06 02:32:43.604112 - Found @WIN327A.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@WIN327A
+2023-08-06 02:32:43.604989 - Found @WIN327D.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@WIN327D
+2023-08-06 02:32:43.605924 - Found @WIN327T.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@WIN327T
+2023-08-06 02:32:43.606872 - Found @XHELP.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/@XHELP
+2023-08-06 02:32:43.607912 - Found COMBO32.x-c (text/x-c) in CBT.V505.FILE258.PDS, moved to PDS/COMBO32
+2023-08-06 02:32:43.608937 - Found DD3270.x-c (text/x-c) in CBT.V505.FILE258.PDS, moved to PDS/DD3270
+2023-08-06 02:32:43.609957 - Found FONT.x-c (text/x-c) in CBT.V505.FILE258.PDS, moved to PDS/FONT
+2023-08-06 02:32:43.610910 - Found INFO3270.x-c (text/x-c) in CBT.V505.FILE258.PDS, moved to PDS/INFO3270
+2023-08-06 02:32:43.611833 - Found LSTBOX32.x-c (text/x-c) in CBT.V505.FILE258.PDS, moved to PDS/LSTBOX32
+2023-08-06 02:32:43.612648 - Found PS9X12U.x-c (text/x-c) in CBT.V505.FILE258.PDS, moved to PDS/PS9X12U
+2023-08-06 02:32:43.613549 - Found PS9X15U.x-c (text/x-c) in CBT.V505.FILE258.PDS, moved to PDS/PS9X15U
+2023-08-06 02:32:43.614529 - Found PS9X16U.x-c (text/x-c) in CBT.V505.FILE258.PDS, moved to PDS/PS9X16U
+2023-08-06 02:32:43.615440 - Found SYM9X12U.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/SYM9X12U
+2023-08-06 02:32:43.616341 - Found SYM9X15U.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/SYM9X15U
+2023-08-06 02:32:43.617273 - Found SYM9X16U.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/SYM9X16U
+2023-08-06 02:32:43.618227 - Found TG.jcl (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/TG
+2023-08-06 02:32:43.619174 - Found TGETN.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/TGETN
+2023-08-06 02:32:43.620062 - Found TGT327D.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/TGT327D
+2023-08-06 02:32:43.620875 - Found TPGN.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/TPGN
+2023-08-06 02:32:43.621738 - Found TPUTN.txt (text/plain) in CBT.V505.FILE258.PDS, moved to PDS/TPUTN
+2023-08-06 02:32:43.622773 - Found TXTPAD32.x-c (text/x-c) in CBT.V505.FILE258.PDS, moved to PDS/TXTPAD32
+2023-08-06 02:32:43.623762 - Found WIDGET32.x-c (text/x-c) in CBT.V505.FILE258.PDS, moved to PDS/WIDGET32
+2023-08-06 02:32:43.624666 - Found WINDOW32.x-c (text/x-c) in CBT.V505.FILE258.PDS, moved to PDS/WINDOW32
+2023-08-06 02:32:43.625782 - Found WIN3270.x-c (text/x-c) in CBT.V505.FILE258.PDS, moved to PDS/WIN3270
